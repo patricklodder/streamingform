@@ -1,0 +1,13 @@
+{
+	"name": "streamingform",
+	"version": "0.0.1",
+	"description": "Streams multipart post file parts (using formidable) into streams instead of saving to disk",
+	"author": "Patrick Lodder",
+	"engines": {
+		"node": ">=0.4.12"
+	},
+	"directories": {
+		"lib": "./lib"
+	},
+	"main": "index.js"
+}
